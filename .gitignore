@@ -1,0 +1,5 @@
+.direnv/
+master/
+abdurrahman.*/
+private-sonic-buildimage/
+private-sonic-mgmt/
